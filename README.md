@@ -211,6 +211,17 @@ Each scored query is one row. Error conditions come back as an `error` row carry
 | `fetched_at` | UTC timestamp for when the row was produced. |
 | `error_message` / `error_type` | Present only on an `error` row. |
 
+<!-- ask-ai:start -->
+## 🤖 Ask an AI assistant about this Actor
+
+Open a ready-to-send prompt about the AI Overview Rewrite Queue Actor in the AI of your choice:
+
+- 💬 [ChatGPT](https://chatgpt.com/?q=Using%20the%20AI%20Overview%20Rewrite%20Queue%20Actor%20on%20Apify%20%28https://apify.com/johnvc/ai-overview-rewrite-queue?fpr=9n7kx3%29%2C%20walk%20me%20through%20this%20use%20case:%20%22Join%20a%20Search%20Console%20export%20with%20AI%20Overview%20data%22.%20Show%20me%20the%20input%20JSON%2C%20the%20output%20fields%2C%20and%20how%20to%20automate%20it%20with%20the%20API%20or%20MCP.)
+- 🧠 [Claude](https://claude.ai/new?q=Using%20the%20AI%20Overview%20Rewrite%20Queue%20Actor%20on%20Apify%20%28https://apify.com/johnvc/ai-overview-rewrite-queue?fpr=9n7kx3%29%2C%20walk%20me%20through%20this%20use%20case:%20%22Join%20a%20Search%20Console%20export%20with%20AI%20Overview%20data%22.%20Show%20me%20the%20input%20JSON%2C%20the%20output%20fields%2C%20and%20how%20to%20automate%20it%20with%20the%20API%20or%20MCP.)
+- 🔍 [Perplexity](https://www.perplexity.ai/search?q=Using%20the%20AI%20Overview%20Rewrite%20Queue%20Actor%20on%20Apify%20%28https://apify.com/johnvc/ai-overview-rewrite-queue?fpr=9n7kx3%29%2C%20walk%20me%20through%20this%20use%20case:%20%22Join%20a%20Search%20Console%20export%20with%20AI%20Overview%20data%22.%20Show%20me%20the%20input%20JSON%2C%20the%20output%20fields%2C%20and%20how%20to%20automate%20it%20with%20the%20API%20or%20MCP.)
+- 🅒 [Copilot](https://copilot.microsoft.com/?q=Using%20the%20AI%20Overview%20Rewrite%20Queue%20Actor%20on%20Apify%20%28https://apify.com/johnvc/ai-overview-rewrite-queue?fpr=9n7kx3%29%2C%20walk%20me%20through%20this%20use%20case:%20%22Join%20a%20Search%20Console%20export%20with%20AI%20Overview%20data%22.%20Show%20me%20the%20input%20JSON%2C%20the%20output%20fields%2C%20and%20how%20to%20automate%20it%20with%20the%20API%20or%20MCP.)
+<!-- ask-ai:end -->
+
 ## People also search for
 
 ### How do I track AI Overviews?
